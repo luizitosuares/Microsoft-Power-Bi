@@ -11,3 +11,7 @@ Repositoria para guardar os conteudos de estudo do curso
 - Machine Learning
 - IA
 - Power Platform
+
+## Conteúdo Programático 
+
+![bi](https://github.com/luizitosuares/Microsoft-Power-Bi/assets/127349318/79648007-bf59-4bdb-8899-a15bf51337c1)
